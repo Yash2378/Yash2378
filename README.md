@@ -12,7 +12,7 @@ Next.js 15 App Router, React 19 and TypeScript on the front. FastAPI with async 
 
 The application is closed source. The evaluation engine and the full dataset are MIT licensed at **[themultivac/multivac-evaluation](https://github.com/themultivac/multivac-evaluation)**.
 
-The research: a blind peer matrix evaluation of 55 frontier models, 27,540 model to model judgments across 198 questions. The finding I care about most is that every peer judge scored a functionally broken concurrency fix a perfect 10, and executing it showed that fix failing 25 of 25 stress trials. Looking correct and being correct diverge exactly where it matters. Preprint on arXiv.
+The research: a blind peer matrix evaluation of 55 frontier models, 27,540 model to model judgments across 198 questions. The finding I care about most is that every peer judge scored a functionally broken concurrency fix a perfect 10, and executing it showed that fix failing 25 of 25 stress trials. Looking correct and being correct diverge exactly where it matters. Research Paper currently under TMLR Review.
 
 ### EMOTE4D
 
